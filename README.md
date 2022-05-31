@@ -4,7 +4,7 @@
 		"http://mao.8oop.cn/ceshi/525/jar/sprider77.jar",
 	"sites": [{
 			"key": "csp_77",
-			"name": "77🐞〔SP〕",
+			"name": "77🐞〔火热冰维护〕",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
